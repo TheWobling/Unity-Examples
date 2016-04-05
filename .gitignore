@@ -1,2 +1,4 @@
 OnCollision/Library/
 OnCollision/Temp/
+*.csproj
+*.sln
