@@ -1,5 +1,4 @@
-OnCollision/Library/
-OnCollision/Temp/
+Library/
+Temp/
 *.csproj
 *.sln
-OnTrigger/Library/
